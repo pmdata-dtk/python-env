@@ -1,0 +1,22 @@
+name: python-env-pmdata
+# channels priority see https://bioconda.github.io/ conda-forge has highest prioriy
+channels: 
+- defaults 
+- bioconda 
+- conda-forge 
+dependencies: 
+- python>=3.7 
+- numpy 
+- pandas 
+- matplotlib 
+- jupyterlab 
+- pip 
+- pandas-gbq 
+- google-api-python-client 
+- jinja2 
+- sqlalchemy 
+- oauth2client 
+- google-cloud-bigquery 
+- google-auth 
+- httplib2 
+- gspread
