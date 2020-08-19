@@ -8,15 +8,5 @@ dependencies:
 - python>=3.7 
 - numpy 
 - pandas 
-- matplotlib 
-- jupyterlab 
-- pip 
-- pandas-gbq 
-- google-api-python-client 
-- jinja2 
-- sqlalchemy 
-- oauth2client 
-- google-cloud-bigquery 
-- google-auth 
-- httplib2 
-- gspread
+- r
+- r-irkernel
