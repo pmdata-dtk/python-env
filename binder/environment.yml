@@ -1,0 +1,10 @@
+name: python-env-pmdata
+# channels priority see https://bioconda.github.io/ conda-forge has highest prioriy
+channels: 
+- defaults 
+- bioconda 
+- conda-forge 
+dependencies: 
+- r-base
+- r-essentials
+- r-irkernel 
